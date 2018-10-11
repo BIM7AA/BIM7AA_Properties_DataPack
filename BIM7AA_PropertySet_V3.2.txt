@@ -1,0 +1,15 @@
+﻿#
+# BIM7AA PropertySet Definition File
+#
+#
+#	Vigtigt. Denne fil er kun et udgangspunkt. Tilret parameterreferencer efter firma/projektstandarder. Brug sker på eget ansvar.
+#	Important. This file is only a starting point. Adjust parameter references according to firm/project standards. Usage on own responsebility.
+# 
+
+PropertySet:	BIM7AA	T	IfcElement
+	BIM7AATypeName	Identifier	
+	BIM7AATypeID	Identifier	
+	BIM7AATypeCode	Identifier	
+	BIM7AATypeDescription	Text	
+	BIM7AATypeNumber	Identifier	
+	BIM7AATypeComments	Text	
