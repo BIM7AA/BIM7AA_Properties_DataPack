@@ -11,10 +11,42 @@
 #	Important. This file is only a starting point. Adjust parameter references according to firm/project standards. Usage on own responsebility.
 # 
 
-PropertySet:	BIM7AA	T	IfcRoot
+
+#	Stamdata Bygningsdele
+
+PropertySet:	BIM7AA	T	IfcElement
 	BIM7AATypeName	Identifier	TypeName
 	BIM7AATypeID	Identifier	
 	BIM7AATypeCode	Identifier	
 	BIM7AATypeDescription	Identifier	
 	BIM7AATypeNumber	Identifier	
 	BIM7AATypeComments	Identifier	
+
+PropertySet:	Phasing	I	IfcElement
+	Status	Text	Phase Created
+
+
+
+
+#	Døre
+
+PropertySet:	Data	I	IfcDoor
+	ABDL	Boolean	
+	AccessControl	Boolean	
+	HardwareSet	Text	
+	Lock	Boolean	
+	Lockset	Text	
+	KickPlate	Boolean	
+	Threshold	Boolean	
+
+
+
+#	Flow IFC2X3
+
+PropertySet:	Dimensions	I	IfcFlowSegment
+	Size	Text	
+	Width	Length	
+	Height	Length	
+	Diameter	Length	
+	Outside Diameter	Length
+	Inside Diameter	Length	
