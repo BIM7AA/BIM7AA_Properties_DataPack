@@ -2,8 +2,8 @@
 
 This property set includes Revit shared Parameters for BIM7AA parameters.
 
-   * BIM7AA_PropertySet_V3.2.txt includes only BIM7AA parameters
-   * BIM7AA_Shared Parameters_V3.2.txt includes IFC parameters
+   * BIM7AA_PropertySet_V3.2.txt includes an IFC Propert Set for BIM7AA Type Codes
+   * BIM7AA_Shared Parameters_V3.2.txt includes Revit Shared Parameters BIM7AA Type Codes. The file also contains a useful selection of Shared Parameters ready to map to IFC Classes. BIM7AA does not define the usage of these IFC Classes but makes them available to standardize their use.
 
 The BIM7AA excel spreadsheet for [BIM7AA Typecoding](http://www.bim7aa.dk/BIM7AA_Typekodning.html) includes mapping tables from BIM7AA to several other systems:
 
