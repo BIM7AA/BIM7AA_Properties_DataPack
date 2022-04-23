@@ -2,6 +2,9 @@
 
 This property set includes Revit shared Parameters for BIM7AA parameters.
 
+   * BIM7AA_PropertySet_V3.2.txt includes only BIM7AA parameters
+   * 
+
 The BIM7AA excel spreadsheet for [BIM7AA Typecoding](http://www.bim7aa.dk/BIM7AA_Typekodning.html) includes mapping tables from BIM7AA to several other systems:
 
    * IFC2x3 TC1 CV2.0 - [Industry Foundation Classes IFC2x Edition 3 Technical Corrigendum 1](https://standards.buildingsmart.org/IFC/RELEASE/IFC2x3/TC1/HTML/) , [Coordination View 2.0](https://technical.buildingsmart.org/standards/ifc/mvd/mvd-database/)) 
