@@ -13,6 +13,6 @@ The BIM7AA excel spreadsheet for [BIM7AA Typecoding](http://www.bim7aa.dk/BIM7AA
    * FVK - [Forvaltning Klassifikation (Danish)](https://www.lbf.dk/publikationer/2014-forvaltnings-klassifikation/)
    * BC SfB - Samarbetskommitten for Byggnadsfragor, [SfB 1988 Bygningsdeltavle (Danish)](https://molio.dk/boeger/sfb-1988-bygningsdeltavle/c-23/p-2193), [description in english](https://www.designingbuildings.co.uk/wiki/CI/SfB), [Om SfB-systemet (Danish, PDF)](https://byg-erfa.dk/sites/default/files/attachments/om-sfb-systemet.pdf)
 
-The [Building Parts Specification from DiKon, BIM7AA and Molio](https://anvisninger.molio.dk/Gratis-vaerktojer/Bygningsdelsspecifikationer) includes a [BDS PropertySet](https://anvisninger.molio.dk/gratis-vaerktojer/bygningsdelsspecifikationer/bds_propertyset/bds_propertyset) file with Revit Shared Parameters for CCS, FVK and SfB.
+The [Building Parts Specification from DiKon, BIM7AA and Molio](https://anvisninger.molio.dk/Gratis-vaerktojer/Bygningsdelsspecifikationer) which is designed for specifiying a required LOIDK (Level og Information (DK) ) includes a [BDS PropertySet](https://anvisninger.molio.dk/gratis-vaerktojer/bygningsdelsspecifikationer/bds_propertyset/bds_propertyset) file with Revit Shared Parameters for CCS, FVK and SfB.
 
 Keep in mind that mapping tables are never perfect as each classification system can contain different information and are organized in different ways.
